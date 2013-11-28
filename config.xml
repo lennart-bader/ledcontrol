@@ -6,10 +6,10 @@
         id        = "de.mytfg.app.darksoja"
         version   = "0.1.0">
 
-    <name>PC Control</name>
+    <name>LED-Control</name>
 
     <description>
-        App to control PC via Webserver with special features
+        App to control LEDs
     </description>
 
     <author href="http://mytfg.de" email="lb4271@mytfg.de">
